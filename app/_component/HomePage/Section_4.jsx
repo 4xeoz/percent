@@ -57,7 +57,7 @@ const Section_4 = () => {
             </div>
             <div className="w-full lg:w-1/3 max-w-[280px] mx-auto relative aspect-[9/16]">
               <Image
-                src="/NotificationScreenShot.png"
+                src="/NotificationScreenShot.PNG"
                 alt="Notification Screenshot"
                 fill
                 className="rounded-3xl object-cover"
@@ -95,7 +95,7 @@ const Section_4 = () => {
           <div className="flex max-w-5xl flex-row bg-[rgb(235,235,235)] rounded-3xl shadow-lg border-2 border-white overflow-hidden">
             <div className="w-1/2 relative aspect-[9/16]">
               <Image
-                src="/NotificationScreenShot.png"
+                src="/NotificationScreenShot.PNG"
                 alt="Notification Screenshot"
                 fill
                 className="object-cover object-left"
