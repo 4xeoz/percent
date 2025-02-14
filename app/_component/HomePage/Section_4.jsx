@@ -12,7 +12,7 @@ const Section_4 = () => {
       setIsLargeScreen(window.innerWidth >= 768);
     };
 
-    handleResize(); // Set initial value
+    handleResize(); 
     window.addEventListener("resize", handleResize);
 
     return () => {
