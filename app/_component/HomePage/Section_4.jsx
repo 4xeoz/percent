@@ -92,7 +92,7 @@ const Section_4 = () => {
             </div>
           </div>
 
-          <div className="flex max-w-5xl flex-row bg-[rgb(235,235,235)] rounded-3xl shadow-lg border-2 border-white overflow-hidden">
+          <div className="flex max-w-5xl flex-row bg-[rgb(235,235,235)] rounded-3xl shadow-lg border-2 border-white overflow-hidden mt-20">
             <div className="w-1/2 relative aspect-[9/16]">
               <Image
                 src="/NotificationScreenShot.PNG"
